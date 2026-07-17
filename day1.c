@@ -5,3 +5,4 @@ int main(){
     (main%9==0)?printf("9"):printf("%d",(main%9));
     printf("%%");
 }
+/////////day1
